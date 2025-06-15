@@ -9,6 +9,7 @@ print(a is not b);#false because addresh of a equal addresh of b
 c='5'
 print(id(c));
 print(a is c);
+print(" a==c ",a==c)
 l1=[1,2,3,4];
 l2=[1,2,3,4];
 print(id(l1),id(l2));
